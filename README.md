@@ -1,2 +1,4 @@
 # HTML_CNC_Refractory
-Edit code and style sheet for accessibility
+Using the provided code and style sheet, performed update of HTML coding to include semantic elements
+that follow structure outside of styling and position. introduction of alt elements to allow for more accessability.
+Also condensing to tight and logical identification of elements. 
